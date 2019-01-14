@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.stop {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.stop > div {
+  padding: 20px 0;
+  background-color: #ccccff;
+}
+
+.bus {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color: #aaaaff;
+}
+
+.UPDATED {
+  background-color: #aacaff;
+}
+
+.bus > div {
+  padding: 5px;
+}
+
+.shortName {
+  text-align: center;
+  border-radius: 25px;
+  width: 70px;
+  background-color: #ccffcc;
+}
+
+.headsign {
+  width: 270px;
+}
+
+.debug {
+  visibility: hidden;
+}

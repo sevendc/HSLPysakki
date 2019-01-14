@@ -1,2 +1,0 @@
-# HSLPysakki
-Created with CodeSandbox
